@@ -1,5 +1,5 @@
 Первая строка
 Вторая строчка
 СТрока 3
-[index.md](./index.md)
+[index.md](readme.md)
 
